@@ -1,6 +1,7 @@
 
 
 public class Personas {
+		private int id; //modificado en web
 		private int cod;
 		private String nif;
 		private String nombre;
